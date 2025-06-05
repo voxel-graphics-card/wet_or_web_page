@@ -17,9 +17,3 @@ Dropdown Menu: All control options are neatly organized within a dropdown "Menu"
 HTML5
 CSS3
 JavaScript (Vanilla JS, Canvas API)
-
-Download the Files:
-Download the waterripple3fsd.html file.
-Ensure your music file named Your_Reality.mp3 is in the same directory as the waterripple3.html file. (You will need to provide your own ink_puddle.mp3 file).
-Open in Browser: Simply open the waterripple3.html file in any modern web browser (e.g., Chrome, Firefox, Safari, Edge).
-The water ripple effect will load automatically. You can then interact with the canvas and use the "Menu" button (located at the top right) to access various controls like toggling rain, changing the theme, showing performance stats, controlling music, and revisiting the story.
